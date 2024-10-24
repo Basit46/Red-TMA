@@ -88,8 +88,8 @@ const Home = () => {
                 </p>
               ) : (
                 <>
-                  <img src={tonIcon} alt="ton" />
-                  <p className="font-[600]">Connect TON Wallet</p>
+                  
+                  <p className="font-[600]">Connect Wallet</p>
                 </>
               )}
             </>
